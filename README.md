@@ -1,6 +1,7 @@
 # wildfly-jsf2.3-web
 Java EE application: JSF2.3/Primefaces, EJB3.2/CDI, Wildfly10/Mysql
-For show contact lis in the web page JSF bean connect via REST client to REST service, which is by itself connected with EJB stateless facade.
+
+For show contact list in the web page JSF bean connect via REST client to REST service, which is by itself connected with EJB stateless facade.
 
 Access via REST  http://localhost:{port}/jsf-web/webresources/v1/contacts
 
