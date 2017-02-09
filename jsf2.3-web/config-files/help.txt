@@ -1,0 +1,10 @@
+Before start.
+1. Have a look jsf2.3-web\config-files
+2. You should restore db dump.
+
+3. You should copy mysql folder to wildfly-10.0.0.Final\modules\system\layers\base\com .
+4. You should copy mysql datasource from standalone.xml to your config.
+5. Edit src\main\resources\META-INF\persistence.xml if needed.
+6. Have a look at ContactsRESTClient.java, I am used 8888 port for wildfly.
+7. Have a look at ApplicationConfig.java
+
