@@ -14,3 +14,6 @@ Before start.
 5. Edit src\main\resources\META-INF\persistence.xml if needed.
 6. Have a look at ContactsRESTClient.java, I am used 8888 port for wildfly.
 7. Have a look at ApplicationConfig.java
+
+Video tutorial like a live coding  for this application you can find here
+https://vimeo.com/203690821
